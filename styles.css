@@ -1,4 +1,7 @@
 .holder{
     display: flex;
-    justify-content:center;
+    flex-direction:column;
+}
+#item-1{
+	text-align:center;
 }
